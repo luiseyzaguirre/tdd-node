@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/tdd-fizzbuzz/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/tdd-fizzbuzz/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/tdd-rest-1/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/tdd-rest-1/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../tdd/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../tdd/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../tdd/tmp" />
+    </content>
+    <content url="file://$MODULE_DIR$/tdd-fizzbuzz/node_modules" />
+    <content url="file://$MODULE_DIR$/tdd-rest-1/node_modules" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
